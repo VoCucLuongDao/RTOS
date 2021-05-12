@@ -1,8 +1,0 @@
-Context Switching
-https://www.cnblogs.com/shangdawei/p/3507794.html
-https://www.programmersought.com/article/76675251997/
-tutorial (use tool google translate)
-https://blog.csdn.net/chenchengwudi/category_10943122.html
-source code
-https://github.com/shuspieler/DIY-RTOS-Learning-tinyOS-
-https://gitee.com/lishutong-01ketang/Learning-DIY-RTOS/tree/master/%E6%97%A0%E6%B3%A8%E9%87%8A%E6%BA%90%E7%A0%81
